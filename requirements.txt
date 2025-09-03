@@ -1,8 +1,6 @@
-numpy 
-pandas 
-matplotlib
-plotly
-sklearn
-sklearn
-pickle
-streamlit
+pip install numpy 
+pip install pandas 
+pip install matplotlib
+pip install plotly
+pip install scikit-learn
+pip install streamlit
